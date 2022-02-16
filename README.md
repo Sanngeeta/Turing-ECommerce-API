@@ -66,7 +66,7 @@ different queries for different endpoints to make them working.
 ```sh
 write on terminal:-
       
-      start npm
+       npm start
 
 ```
 
